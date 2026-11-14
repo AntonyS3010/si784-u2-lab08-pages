@@ -1,0 +1,24 @@
+Summary
+  Generated on: 11/14/2026 - 19:01:14
+  Coverage date: 11/14/2026 - 19:01:12
+  Parser: Cobertura
+  Assemblies: 1
+  Classes: 2
+  Files: 2
+  Line coverage: 90.6%
+  Covered lines: 29
+  Uncovered lines: 3
+  Coverable lines: 32
+  Total lines: 86
+  Branch coverage: 83.3% (5 of 6)
+  Covered branches: 5
+  Total branches: 6
+  Method coverage: 86.6% (13 of 15)
+  Full method coverage: 80% (12 of 15)
+  Covered methods: 13
+  Fully covered methods: 12
+  Total methods: 15
+
+Bank.Domain                  90.6%
+  Bank.Domain.Cliente         100%
+  Bank.Domain.CuentaAhorro   89.6%
